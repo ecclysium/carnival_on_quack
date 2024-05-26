@@ -10,7 +10,7 @@ name,Carnival on Quack
 craftman,Blue0909
 craftmanw,Blue
 craftmanurl,https://blue0909.tumblr.com/
-homeurl,
+homeurl,https://raw.githubusercontent.com/ecclysium/carnival_on_quack/main/Updates/
 
 
 //——— Display area ———
